@@ -1,2 +1,4 @@
 # hello-world
-just another repository
+
+Hi! How are you?
+元気ですか？
